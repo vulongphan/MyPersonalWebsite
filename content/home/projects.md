@@ -23,7 +23,7 @@ subtitle = ""
   
   # [[content.filter_button]]
   #   name = "All"
-  #   tag = "*"
+   tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -54,18 +54,18 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -74,4 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+Auxify Web Application: a project that allows Spotify Premium users to host listening rooms that other users can join. Users in a listening room can vote for which song to play first in a queue. The project integrates backend and frontend development and essentially a MERN (MongoDB, Express, ReactJS, NodeJS) application. MongoDB database is hosted on an EC2 Instance provided by the Amazon Web Service. The Auxify App is hosted by Heroku at http://auxify.herokuapp.com/
