@@ -62,4 +62,4 @@ email: ""
 
 I am a Computer Science student at New York University Abu Dhabi. 
 
-A dedicated, methodical and quality-driven programmer who always finishes what I am assigned and sets out to do at a fairly satisfactory level. I am eager to learn about different areas of my interest and make sure the knowledge I gain brings real value to the organization that I work for.
+A dedicated, methodical and quality-driven programmer who always finishes what he is assigned and sets out to do at a fairly satisfactory level. I am eager to learn about different areas of my interest and make sure the knowledge I gain brings real value to the organization that I work for.
