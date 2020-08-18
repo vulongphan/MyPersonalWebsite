@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Infore Technology"
   company_url = "https://www.linkedin.com/company/infore"
   location = "Hanoi, Vietnam"
-  date_start = "2019-01"
-  date_end = "2019-07"
+  date_start = "2019-01-00"
+  date_end = "2019-07-00"
   description = """
   Responsibilities include:
   
