@@ -1,4 +1,4 @@
----
++++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "First Prize in the Hackathon of class C4T"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2019-06-00"
+  date_end = "2019-07-"
   description = "The product is a website for book exchange (the website is in Vietnamese)"
 
----
++++
