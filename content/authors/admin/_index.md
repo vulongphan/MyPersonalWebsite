@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vu Long Phan
+title: Vu Long
 
 # Username (this should match the folder name)
 authors:
