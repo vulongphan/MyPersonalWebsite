@@ -28,7 +28,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Apply machine learning models in image recognition using frameworks such as Flask and Tensorflow
-  * Using Python and Chatfuel to create chatbots of different complexity levels
-  """
+  * Using Python and Chatfuel to create chatbots of different complexity levels """
 
 +++
