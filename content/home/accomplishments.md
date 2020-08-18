@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-06-00"
-  date_end = "2019-07-"
+  date_end = "2019-07-00"
   description = "The product is a website for book exchange (the website is in Vietnamese)"
 
 +++
