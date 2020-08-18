@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "First Prize in the Hackathon of class C4T"
   url = ""
   certificate_url = ""
-  date_start = "2019-00-06"
-  date_end = "2019-00-0"
+  date_start = "2019-06-01"
+  date_end = "2019-07-0"
   description = "The product is a website for book exchange (the website is in Vietnamese)"
 
 +++
