@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.linkedin.com/company/infore"
   location = "Vietnam"
   date_start = "2019-01-28"
-  date_end = "2019-07-"
+  date_end = "2019-07-15"
   description = """
   Responsibilities include:
   
