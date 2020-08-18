@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   organization = "MindX Coding School"
   organization_url = "https://www.mindxtech.com/"
   title = "First Prize in the Hackathon of class C4T"
-  url = "https://vulongphan.github.io/Book-Web-Application/"
+  url = ""
   certificate_url = ""
   date_start = "2019-06-01"
   date_end = "2019-07-01"
-  description = "The product is a website for book exchange (the website is in Vietnamese)"
+  description = "The product is a website for book exchange (the website is in Vietnamese). The website can be found at https://vulongphan.github.io/Book-Web-Application/"
 
 +++
