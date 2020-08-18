@@ -23,7 +23,6 @@ subtitle = ""
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "100%"  
   
 [[feature]]
   icon = "python"
