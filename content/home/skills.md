@@ -18,19 +18,17 @@ subtitle = ""
   icon = "react"
   icon_pack = "fab"
   name = "React"
-  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
 
 # Uncomment to use emoji icons.
 # [[feature]]
