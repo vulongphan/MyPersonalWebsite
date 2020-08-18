@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vu Long
+title: Vu Long 
 
 # Username (this should match the folder name)
 authors:
