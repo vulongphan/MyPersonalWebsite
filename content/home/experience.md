@@ -1,4 +1,4 @@
-+++
+
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -21,13 +21,13 @@ date_format = "Jan 2006"
   title = "Intern"
   company = "Infore Technology"
   company_url = "https://www.linkedin.com/company/infore"
-  location = "Hanoi, Vietnam"
+  location = "Vietnam"
   date_start = "2019-01-00"
   date_end = "2019-07-00"
   description = """
   Responsibilities include:
   
   * Apply machine learning models in image recognition using frameworks such as Flask and Tensorflow
-  * Using Python and Chatfuel to create chatbots of different complexity levels """
+  * Using Python and Chatfuel to create chatbots of different complexity levels 
+  """
 
-+++
