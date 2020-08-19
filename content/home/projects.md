@@ -75,3 +75,5 @@ subtitle = ""
  css_class = ""
 +++
 Auxify Web Application: a project that allows Spotify Premium users to host listening rooms that other users can join. Users in a listening room can vote for which song to play first in a queue. The project integrates backend and frontend development and essentially a MERN (MongoDB, Express, ReactJS, NodeJS) application. MongoDB database is hosted on an EC2 Instance provided by the Amazon Web Service. The Auxify App is hosted by Heroku at http://auxify.herokuapp.com/
+
+Arduino Robot controlled by Processing interface: a school project that makes use of the USB port communication between an Arduino board and Processing program. Controlled by interactive Processing interface, the robot is able to move in four directions and when it approaches an obstacle, an alarm will sound and LED lights will blink. The project is a demonstration of my knowledge in programming with C++ on an Arduino board, programming with Java in Processing and applying efficient USB port communicating protocol. The github repository is available at https://github.com/vulongphan/IntroToIM/tree/master/FinalProject
